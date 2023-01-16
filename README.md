@@ -2,8 +2,17 @@
 
 ## React-Native dev-guide
 
+* You can start dev-envirment after create project and move project directory
+```bash
+npm start
+```
+
 1. [React-Native] 설치 및 환경 변수 세팅(Windows 10)
 https://ssjeong.tistory.com/entry/React-Native-%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%99%98%EA%B2%BD-%EB%B3%80%EC%88%98-%EC%84%B8%ED%8C%85Windows-10
+2. React-Native-expo-cli-설치-생성-후-실행
+https://ssjeong.tistory.com/entry/React-Native-expo-cli-%EC%84%A4%EC%B9%98-%EC%83%9D%EC%84%B1-%ED%9B%84-%EC%8B%A4%ED%96%89
+1-1. React Native로 아이폰과 안드로이드 앱을 만들어보자 - 2. 개발 환경 준비
+https://www.youtube.com/watch?v=TkJtqgd1mKM
 
 ## aws springboot dev-guide
 
