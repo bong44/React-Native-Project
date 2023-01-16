@@ -1,5 +1,7 @@
 # React-Native-Project
 
+<img src="https://img.shields.io/badge/npm-CB3837?style=FOR-THE-BADGE&logo=npm&logoColor=white"/><img src="https://img.shields.io/badge/v8.3.1-41454a?style=FOR-THE-BADGE"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=FOR-THE-BADGE&logo=npm&logoColor=white"/><img src="https://img.shields.io/badge/v16.14.0-41454a?style=FOR-THE-BADGE"/>
+
 ## React-Native dev-guide
 
 * You can start dev-envirment after create project and move project directory
